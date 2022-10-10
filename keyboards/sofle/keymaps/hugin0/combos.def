@@ -1,0 +1,14 @@
+//   NAME               RESULT          CHORD KEYS
+
+// left side mods
+COMB(lctrl_combo,       OSM(MOD_LCTL),        KC_F, KC_D)
+COMB(lalt_combo,        OSM(MOD_LALT),        KC_D, KC_S)
+COMB(lgui_combo,        OSM(MOD_LGUI),        KC_D, KC_V)
+
+// right side mods
+COMB(rctrl_combo,       OSM(MOD_RCTL),        KC_J, KC_K)
+COMB(ralt_combo,        OSM(MOD_RALT),        KC_K, KC_L)
+COMB(rgui_combo,        OSM(MOD_RGUI),        KC_K, KC_M)
+
+// CAPSWORD
+COMB(caps_word,         CAPS_WORD,            KC_SEMICOLON, KC_A)
